@@ -1,7 +1,10 @@
 //import custom variable
-//if you comment the custom color add 
-// $footer-text-color: $white !default;
-@import 'custom-colors';
+
+//if you comment the custom color uncomment the line below
+//@import 'custom-colors';
+
+//else uncomment this
+$footer-text-color: hsl(0, 0%, 100%)  !default;
 
 // bootstrap italia version variable
 // useful to check for the current version
