@@ -1,7 +1,7 @@
-$primary-h: 0;
-$primary-s: 80;
+$header-center-text-color: green !default;
+$primary-h: 304;
+$primary-s: 100;
 $primary-b: 100;
-
 
 // bootstrap italia version variable
 // useful to check for the current version
@@ -97,7 +97,7 @@ $primary-b: 100;
 @import 'custom/hero';
 @import 'custom/forward';
 @import 'custom/back-to-top';
-@import 'custom/autocomplete';
+// @import 'custom/autocomplete';
 @import 'custom/linklist';
 @import 'custom/navigation';
 @import 'custom/skiplinks';
@@ -142,7 +142,7 @@ $primary-b: 100;
 @import 'custom/code';
 @import 'custom/images';
 @import 'custom/just-validate';
-@import 'custom/accessible-autocomplete';
+// @import 'custom/accessible-autocomplete';
 @import 'custom/page-scroll';
 
 // datepicker
