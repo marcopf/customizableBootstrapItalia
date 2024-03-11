@@ -1,7 +1,7 @@
-$header-center-text-color: green !default;
-$primary-h: 304;
-$primary-s: 100;
-$primary-b: 100;
+//import custom variable
+//if you comment the custom color add 
+// $footer-text-color: $white !default;
+@import 'custom-colors';
 
 // bootstrap italia version variable
 // useful to check for the current version
